@@ -1,3 +1,4 @@
 # action-network-scraper
-A simple scraper to collect data on sports odds from actionnetwork.com using an EC2 instance on AWS. The intention of this project was to collect data for a friend for data science purposes. 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A simple python/selenium based web scraper to collect data on sports odds from actionnetwork.com and store it in a MySQL database consisting of tables which mimick the displayed data on the website.
+_______________________________________________________________________________________________________________________________
+Note: This project was created to help a friend do data science on sports odds, misuse of the code could be in violation of the actionnetwork.com terms of service.
